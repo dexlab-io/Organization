@@ -69,7 +69,7 @@ Structures:
 - Decisions made after thorough conversation on Meetings, informal vote to be taken if necessary, possible conflicts discussed if necessary, final vote if needed and decision confirmed by Project/Tech Lead.
 - Facilitators are responsible for gathering the agenda for the Meetings where applicable, as well as either taking notes of the Meeting and decisions made or delegating this responsibility to another participant
 - Use (The Etherian’s or our own) [Colony](https://colony.io/) to have community members participate and get rewarded for their non-code contributions
-- Implement a system similar to [Maker’s Actions](http://makerdao.com/actions/) and post a monthly transparency report about the use of funds to the blog
+- Implement a system similar to [Maker’s Actions](http://makerdao.com) and post a monthly transparency report about the use of funds to the blog
 - GitHub Issues will be used as a forum to discuss proposals by community and team members
 - We’ll have templates that can/will be used for the basis of agendas in Meetings so the Facilitator can easily fill out each Meetings info, like who will be presenting what, who has slides etc.
 - Facilitator of the Meeting will make sure that the discussion stays on rails, everyone gets a chance to speak their mind, everything on the agenda is discussed, necessary decisions are made and that the Meeting length stays on a reasonable length
