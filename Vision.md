@@ -1,4 +1,13 @@
->**Disclamer:** This document is to consider a draft, the final vertion of this document will be digitally signed by the organization members.
+## Preamble
+
+    Title: Kairos Community Governance Model
+    Author: Alessio Delmonti
+    Type: Governance Model
+    Status: Draft, v0.1
+    Created: 2017-11-07
+    Disclamer: This document is to consider a draft, the final vertion of this document will be digitally signed by the organization members.
+    
+
 
 ## Vision
 
