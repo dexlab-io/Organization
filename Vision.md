@@ -5,13 +5,13 @@
     Type: Governance Model
     Status: Draft, v0.1
     Created: 2017-11-07
-    Disclamer: This document is to consider a draft, the final vertion of this document will be digitally signed by the organization members.
+    Disclamer: This document is to consider a draft, the final version of this document will be digitally signed by the organization members.
     
 
 
 ## Vision
 
-Kairos Projects it's an independent group of open source developers, designers and data scientist formed to accellerate the adoption of blockchain technology to the masses.
+Kairos Projects it's an independent group of open source developers, designers and data scientists formed to foster the adoption of blockchain technology to the masses.
 
 
 ## Why is it important
