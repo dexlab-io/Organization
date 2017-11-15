@@ -27,6 +27,7 @@ We need to involve philosophers, NGOs, social scientist into the blockchain revo
 - Open souce MIT license
 - Security
 - State of the art development
+- Accessibility
 
 **Governance**
 
