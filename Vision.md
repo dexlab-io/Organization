@@ -1,6 +1,6 @@
 ## Preamble
 
-    Title: Kairos Community Governance Model
+    Title: Dexlab Community Governance Model
     Author: Alessio Delmonti
     Type: Governance Model
     Status: Draft, v0.1
@@ -11,13 +11,13 @@
 
 ## Vision
 
-Kairos Projects it's an independent group of open source developers, designers and data scientists formed to foster the adoption of blockchain technology to the masses.
+We are an international group of open source developers working to accelerate the adoption of blockchain technology by providing user friendly products.
 
 
 ## Why is it important
 
 ...
-We need to involve philosophers, NGOs, social scientist into the blockchain revolution.
+In Dexlab we believe that decentralised fintech services should be accessible to everyone and offer great user experience.
 ...
 
 ## We Design cryptoeconomics incentive to promote a positive outcome.
@@ -31,10 +31,10 @@ We need to involve philosophers, NGOs, social scientist into the blockchain revo
 
 **Governance**
 
-Kairos aims to be a virtual organization where members vote on issues.
+Dexlab aims to be a virtual organization where members vote on issues.
 
 1. There will be a high council composed of 4 members of the council. They are the Maintainers of the Council team.
-2. Any member of Kairos Projects can create and collaborate on projects.
+2. Any member of Dexlab can create and collaborate on projects.
 3. Rewards distribution will be voted on by project before being sent. There must be a majority agreement of all high council members.
 4. Every council meeting which include votation we'll be operated and permanently stored to the ethereum blockchain via [contract]()
 
